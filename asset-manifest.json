@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/timeline-app/static/css/main.616ba065.css",
-    "main.js": "/timeline-app/static/js/main.da5db012.js",
+    "main.js": "/timeline-app/static/js/main.ce5c0b49.js",
     "static/js/453.759128cd.chunk.js": "/timeline-app/static/js/453.759128cd.chunk.js",
     "index.html": "/timeline-app/index.html",
     "main.616ba065.css.map": "/timeline-app/static/css/main.616ba065.css.map",
-    "main.da5db012.js.map": "/timeline-app/static/js/main.da5db012.js.map",
+    "main.ce5c0b49.js.map": "/timeline-app/static/js/main.ce5c0b49.js.map",
     "453.759128cd.chunk.js.map": "/timeline-app/static/js/453.759128cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.616ba065.css",
-    "static/js/main.da5db012.js"
+    "static/js/main.ce5c0b49.js"
   ]
 }
